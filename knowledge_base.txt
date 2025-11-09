@@ -1,0 +1,129 @@
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 1, "text": "Återköp i Nayax\nDet finns två sätt att göra återköp till kunder, antingen via MoMa-appen eller via Nayax Core på dator."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 2, "text": "Om en kund debiterats men inte fått sin produkt bör du återbetala dem."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 3, "text": "Återköp via MoMa-appen\nSök upp automaten du vill göra återköp från."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 4, "text": "Klicka på den!\nVälj fliken Last sales\nKlicka på köpet du vill göra återköp för\nNu syns detaljerna om köpet."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 5, "text": "Välj Request Refund längst ner\nBeskriv varför du vill göra återköpet och vilken mejladress du vill ha bekräftelse till (din egen & ev."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 6, "text": "kundens)."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 7, "text": "Request!\n\nKunden får nu återbetalning till sitt konto inom fyra bankdagar!\nImpact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n1."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 8, "text": "Sök automat\n2."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 9, "text": "Last sales\n3."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 10, "text": "Hitta köpet\n4.Begär återköp \n5."}
+{"source": "Återköp i Nayax.pptx", "slide": 1, "chunk": 11, "text": "Fyll i uppgifter om återköpet"}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 1, "text": "Återköp i Nayax\nDet finns två sätt att göra återköp till kunder, antingen via MoMa-appen eller via Nayax Core på dator\nÅterköp via Nayax Core på dator\n\nLogga först in på Nayax Core via dator på de.nayax.com\n\nKlicka på Reports -> Online Reports -> Dynamic Transactions Monitor\u000b\u000b\n\u000b\u000b\u000b\u000b\nFyll i så många uppgifter du kan om köpet - exempelvis tidpunkt, vilken automat det gäller (machine reference), sista 4 siffrorna av kortnumret, korttyp eller liknande."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 2, "text": "Klicka sen på gula knappen View report!\n\u000b\u000b\u000b\u000b\u000b\u000b\u000b\u000b\nDu får nu en lista på alla köp som matchar ditt sök."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 3, "text": "Hitta rätt transaktion och scrolla längst till höger."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 4, "text": "Klicka på Pilen och välj Request Refund\n\nBeskriv varför du vill göra återköpet och\u000bvilken mejladress du vill ha bekräftelse till\u000b(din egen & ev."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 5, "text": "kundens)."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 6, "text": "Request refund!\u000b\u000bKunden får återbetalning inom fyra bankdagar!\nImpact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n1."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 7, "text": "Välj Dynamic Transactions Monitor\n2."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 8, "text": "Sök efter rätt köp\nTips!\u000bFråga kunden om så detaljerade uppgifter som möjligt för att lättare hitta deras transaktion!\n\nTidpunkt (ex: “lunchtid igår”)\nAutomat (“i lunchrummet på Postnord”)\nProdukt (“kexchoklad”\nPlats (“högst upp till vänster i automaten”)\nKorttyp (Mastercard/Visa)\nSista 4 i kortnumret\n3."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 9, "text": "Hitta rätt transaktion\n4."}
+{"source": "Återköp i Nayax.pptx", "slide": 2, "chunk": 10, "text": "Fyll i uppgifter om återköpet"}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 1, "text": "Bygga om maskinen\nIbland behövs maskinen byggas om för att hyllorna ska passa till rätt eller nya produkter."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 2, "text": "I vissa fall går det att bygga om maskinen eller byta fack själv med reservdelar från oss, i andra fall kan en tekniker behöva komma på ett serviceärende för att göra jobbet."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 3, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 4, "text": "1.0 2024-06-05\n\u000b\nFörsta steget till att bygga om din maskin för att få in exempelvis nya hyllor är att skapa ett supportärende till support@impactsolution.se ."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 5, "text": "Var utförlig med att förklara vad du vill byta ut och hur dina hyllor ser ut idag."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 6, "text": "Inkludera gärna bilder."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 7, "text": "Berätta också gärna vilken maskin det gäller och vart den står."}
+{"source": "Bygga om maskinen_Byta hyllor_Byta delar.pptx", "slide": 1, "chunk": 8, "text": "Vi kontaktar sedan dig med hur du ska gå tillväga, om vi skickar reservdelar till dig som du kan bygga om maskinen med själv, eller om en tekniker kommer på besök."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 1, "text": "Byta antenn\nHur man byter antenn på Nayax Terminal."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 2, "text": "Om signalstyrkan inte är stark nog på din nayaxterminal kan detta ofta bero på fel på antennen."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 3, "text": "Steg\u000b\nBörja med att slå av strömmen."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 4, "text": "Använd sedan en torx 20 för att lossa på täckplåten."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 5, "text": "Själva terminalen sitter fast med 4 stjärnskruvar som behöver skruvas ur \n\nDet sitter en plastlucka på baksidan  som håller tillbaka kablarna."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 6, "text": "Kontrollera att simkortet sitter fast ordentligt (inringad i mitten)."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 7, "text": "Antennen snurrar man på och drar rakt uppåt bort från terminalen."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 8, "text": "Och på samma sätt sätter man tillbaka den nya att man sticker in den och snurrar för att den ska fastna (knäpper till lite)."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 9, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Byta antenn.pptx", "slide": 1, "chunk": 10, "text": "1.0 2025-01-17"}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 1, "text": "Byta antenn\nDragning för att undvika att klämma kabeln på PRO maskiner."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 2, "text": "Steg\u000b\nBörja med att öppna dörren."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 3, "text": "Tryck in delen på höger sida och dra ut hyllan mot dig."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 4, "text": "På baksidan finns ett hål som du kan dra sladden genom."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 5, "text": "Trä in den där, sen får man fiska ut den, bra om du har något som kan greppa kabeln med."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 6, "text": "När du får tag i den, dra den och koppla i Nayax enheten."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 7, "text": "Fäst kabeln i samma fästen som de andra kablarna är fästa i."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 8, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Byta antenn.pptx", "slide": 2, "chunk": 9, "text": "1.0 2025-01-17"}
+{"source": "Byta antenn.pptx", "slide": 3, "chunk": 1, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nImpact Solutions supportväxel\n010-20 71 510"}
+{"source": "Byta Nayax-enhet SV.pptx", "slide": 1, "chunk": 1, "text": "Impact Solution Support\nsupport@impactsolution.se\nimpactsolution.se\nTiundagatan 59, 752 30 Uppsala\nÖppna upp dörren till automaten\n\nStäng av strömmen på huvudströmbrytaren (eller dra ut sladden)\n\nKoppla ur den gula sladden ur automaten\nSkruva ur dom fyra skruvarna och ta bort terminalen."}
+{"source": "Byta Nayax-enhet SV.pptx", "slide": 1, "chunk": 2, "text": "Montera nya terminalen och anslut gula sladden och den svarta antennkabeln\n\n(Var försiktig när du sätter i antennkabeln - den är ömtålig)\n\nPlacera antennen på insidan av maskinen - fäster med magnet."}
+{"source": "Byta Nayax-enhet SV.pptx", "slide": 1, "chunk": 3, "text": "Starta upp maskinen igen."}
+{"source": "Byta Nayax-enhet SV.pptx", "slide": 1, "chunk": 4, "text": "Byta Nayax-enhet\nGuide för att byta ut betalterminalen Nayax."}
+{"source": "Byta Nayax-enhet SV.pptx", "slide": 1, "chunk": 5, "text": "Här är en guide hur du själv kan byta ut din nayaxterminal."}
+{"source": "Byta Nayax-enhet SV.pptx", "slide": 2, "chunk": 1, "text": "Impact Solution Support\nsupport@impactsolution.se\n010-20 71 510\nTiundagatan 59, 752 30 Uppsala\nImpact Solutions supportväxel\n010-20 71 510"}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 1, "text": "Ber om legitimation\nOm din maskin eller nayax-dosa ber om legitimation eller ID när du försöker köpa en produkt ur varuautomaten kan detta bero på flera olika saker."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 2, "text": "Oftast går det att åtgärda av oss på supporten utan särskilt mycket krångel."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 3, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 4, "text": "1.0 2024-06-05\nLösning\u000b\nSkapa ett ärende till vår support på support@impactsolution.se ."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 5, "text": "Beskriv vilken produkt det gäller, i vilket fack, vilken aktör ni är, samt vilken maskin det avser."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 6, "text": "Vi löser ärendet så fort vi kan och kontaktar er efteråt."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 7, "text": "Det kan vara bra att tömma facket på produkten som maskinen ber om legitimation på tills det är fixat."}
+{"source": "Frågar efter legitimation.pptx", "slide": 1, "chunk": 8, "text": "Så att era kunder inte försöker köpa produkten."}
+{"source": "Mina produkter har bytt namn_bild.pptx", "slide": 1, "chunk": 1, "text": "Mina produkter i MoMa/Nayax/maskinen har fått fel bild eller namn\nOm en produkt har fått ett konstigt namn eller att bilden har uppdaterats i MoMa, påfyllarappen, Nayax eller i maskinen så beror detta på att en annan aktör lyckats ändra produkten."}
+{"source": "Mina produkter har bytt namn_bild.pptx", "slide": 1, "chunk": 2, "text": "Det går lätt att återställa,\nImpact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Mina produkter har bytt namn_bild.pptx", "slide": 1, "chunk": 3, "text": "1.0 2024-06-05\n\u000b\n\n\n\nFör att vi ska kunna ändra namnet på produkterna i din varuautomat i appen MoMa, Nayax eller maskinen så behöver vi att du skapar ett supportärende till support@impactsolution.se \nSpecificera vilken maskin det gäller och vart den står."}
+{"source": "Mina produkter har bytt namn_bild.pptx", "slide": 1, "chunk": 4, "text": "Samt vilka produkter som har ändrats och vad du hade velat ändra dem tillbaka till."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 1, "text": "Momsrapporter\nMomsrapporter, momsunderlag eller försäljningsunderlag kan underlätta bokföringen och det är populärt hos många av våra kunder för att underlätta arbetet."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 2, "text": "Det går även att ta fram momsrapporter manuellt men det kräver en del arbete."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 3, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 4, "text": "1.0 2024-06-05\n\n\nSom nämnt i tidigare utskick så är rapportgenerering en tjänst som vanligtvis kostar, vi bjöd troligtvis på den i ett par månader till er som onboarding."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 5, "text": "Om ni känner att ni har stor nytta eller sparar tid med rapporterna får ni gärna fortsätta prenumerera på dem."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 6, "text": "Endast momsrapporter kostar 99kr/ mån och försäljningsrapporter med AI-insikter om just din försäljning (UNO) kostar 149kr/ mån."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 7, "text": "Vid teckning kan även rapporter för tidigare månader skickas ut."}
+{"source": "Momsrapport.pptx", "slide": 1, "chunk": 8, "text": "För att se hur man manuellt tar fram en momsrapport följ anvisningar på nästkommande sida."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 1, "text": "Nayaxterminal svart eller problematiskt\nOm din nayaxterminal (kortterminalen) inte fungerar som den ska, antingen att den är helt svart, visar felmeddelanden, inte tillåter köp eller helt enkelt bara strular så att köp inte går igenom, då behöver du följa följande steg."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 2, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 3, "text": "1.0 2024-06-05\n\u000b\n\n\nOm din Nayax-terminal är helt svart bör du först prova att starta om maskinen."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 4, "text": "Om din kortterminal fortfarande är svart eller inte fungerar efter en omstart kan vi behöva skicka ut en ny terminal."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 5, "text": "Skapa ett supportärende till support@impactsolution.se så kommer vi fram till hur ni ska få er nya terminal."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 6, "text": "Om er Nayaxterminal strular, har problem med uppkopplingen eller att köp inte går igenom kan detta ha att göra med signalstyrkan."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 7, "text": "Testa att trycka på de tre-strecken, sen längst upp till vänster."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 8, "text": "Vad står det för siffra bakom RSSI:\n9-33 är bra signalstyrka\nUnder 9 behöver antennen flyttas ut\nVid 99 behöver man kontrollera att antennkabeln sitter ordentligt."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 9, "text": "Kontrollera även att simkorter sitter bra."}
+{"source": "Nayax terminal är helt svart eller strular.pptx", "slide": 1, "chunk": 10, "text": "Om detta fortfarande inte löser problemet behöver \nvi troligtvis byta ut terminalen."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 1, "text": "Racket Solution Daglig Rutine\nHver dag må man følge noen enkle rutiner for at RS-skapet skal fungere bra og for at kundene skal bli fornøyde."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 2, "text": "Sjekkliste\nFinn alle racketene som ikke ligger i skapet."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 3, "text": "Sett alt tilbake i skapet."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 4, "text": "Åpne hver luke og desinfiser alle racketene."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 5, "text": "Sørg for at alle er hele og rene."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 6, "text": "Steng lukene som kunder har glemt å stenge."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 7, "text": "Gå til admin-sidan og finn Locker > Update for å tilbakestille statusen til “leie” på alle plasser."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 8, "text": "Nullstill skapet i admin-portalen under «lockers»-menyen."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 1, "chunk": 9, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510"}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 1, "text": "Racket Solution Daglig Rutin\nVarje dag måste man sköta några enkla rutiner för att RS-skåpet som fungera bra och för att kunderna ska bli nöjda."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 2, "text": "Checklista\nHitta alla racketar som ej ligger i skåpet."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 3, "text": "Ställa tillbaka allt i skåpet."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 4, "text": "Öppna varje lucka och desinfektera alla racketar."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 5, "text": "Se till att alla är hela och rena."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 6, "text": "Stäng luckor som kunder har glömt att stänga."}
+{"source": "Racket Solution Daglig Rutin.pptx", "slide": 2, "chunk": 7, "text": "Gå in på admin-sidan och hitta Locker > Update för att återställa status till “ledig” på samtliga platser\nNollställ skåpet i admin-portalen under ”lockers”-menyn\n\nImpact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510"}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 1, "text": "Racket Solution Ny Kund\nOm en kund ska använda Racket Solution för första gången måste den ladda ner appen."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 2, "text": "Här kommer lite enkel information om vad som är viktigt när man ska använda appen för första gången."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 3, "text": "Ladda ner appen\nRacket Solution appen finns tillgänglig på både App Store och Google Play."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 4, "text": "Oftast sitter en QR-kod eller annan tydlig information om hur man laddar ner appen nära Racket Solution-skåpet."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 5, "text": "Hitta ditt RS-skåp\nFör att appen ska fungera måste kunden aktivera plasttjänster och bluetooth."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 6, "text": "Man måste stå bredvid ett skåp “på BlueTooth-avstånd” (20 m) för skåpet ska kunna hitta din enhet."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 7, "text": "Man måste även ha på WiFi/ mobildata eftersom appen använder detta för att kommunicera mot sitt API."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 8, "text": "Övrigt\nKom ihåg att Racket Solution-skåpen står i Sverige, Norge och Danmark."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 9, "text": "En stor del av samtalen sker därför på andra språk än svenska."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 10, "text": "Betallösningen sker genom att man fyller på pengar i sin plånbok."}
+{"source": "Racket Solution Ny Kund.pptx", "slide": 1, "chunk": 11, "text": "Kunder i Norge kan endast fylla på sin plånbok med Vipps (norska Swish)\nImpact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510"}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 1, "text": "Racket Solution Skåpet Fungerar Ej\nOm en kund upplever att skåpet ej fungerar finns det flera saker man måste göra."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 2, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\nFråga om kunden har hyrt racket förut."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 3, "text": "Om kunden hyr för första gången beror det troligtvis på att kunden inte har använt appen på ett korrekt sätt."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 4, "text": "Läs manual om Racket Solution Ny Kund för mer information."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 5, "text": "Starta om skåpet\nMaskinen behöver troligtvis en omstart då det löser problemet 90% av gångerna."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 6, "text": "Hitta sladden som ger ström till skåpet och dra ut kontakten."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 7, "text": "Vänta i minst 10 sekunder."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 8, "text": "Viktigt för att Arduinon ska hinna start om."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 9, "text": "Stoppa sedan i kontakten igen."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 10, "text": "Om ni inte kan starta om skåpet\nFörsök starta om skåpet på annat sätt."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 11, "text": "En gång fick en padelhall dra proppen för att starta om skåpet, det är värt det."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 12, "text": "Om ni fortfarande inte kan starta om skåpet\nKontakta padelhallen så de är medvetna om situationen."}
+{"source": "Racket Solution Skåpet Fungerar Ej.pptx", "slide": 1, "chunk": 13, "text": "Kontakta Impact Solution på 010 - 20 71 510"}
+{"source": "Ändra mailaddress dit nayax-underlag kommer.pptx", "slide": 1, "chunk": 1, "text": "Ändra mailadress för Nayax-underlag\nVarje månad skickar Nayax ut ett underlag för den försäljning som ni gjort, samt er utbetalning från dem."}
+{"source": "Ändra mailaddress dit nayax-underlag kommer.pptx", "slide": 1, "chunk": 2, "text": "Denna kommer ofta den 15e varje månad och via email, vill ni ändra denna email-adress behöver ni kontakta oss så ordnar vi det åt er."}
+{"source": "Ändra mailaddress dit nayax-underlag kommer.pptx", "slide": 1, "chunk": 3, "text": "Impact Solution\nsupport@impactsolution.se\nimpactsolution.se\n010 - 20 71 510\n\nVersion."}
+{"source": "Ändra mailaddress dit nayax-underlag kommer.pptx", "slide": 1, "chunk": 4, "text": "1.0 2024-06-05\n\u000b\n\nFör att vi ska kunna byta eller lägga till fler mail-adresser som får försäljnings/utbetalningsunderlaget från Nayax behöver ni skicka ett mail till finance@impactsolution.se och ange ditt företagsnamn, samt vilken emailadress ni vill att vi ska skicka nayaxrapporterna till."}

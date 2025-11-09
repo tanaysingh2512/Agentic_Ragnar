@@ -1,0 +1,13 @@
+flask
+flask_cors
+pinecone
+pinecone_plugins.assistant.models.chat
+elevenlabs
+speech_recognition
+elevenlabs.conversational_ai.conversation
+gtts
+elevenlabs.conversational_ai.default_audio_interface
+requests
+pydub
+tempfile
+pptx

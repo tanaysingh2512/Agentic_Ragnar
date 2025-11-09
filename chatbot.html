@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask Ragnar Anything</title>
+    <!-- Load Tailwind CSS --><script src="https://cdn.tailwindcss.com"></script>
+    <!-- Configure Tailwind to use the Inter font and colors --><script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        'app-bg': '#f9fafb', // Light background for chat view
+                        'card-bg': 'white',
+                        'primary': '#4f46e5', // Indigo
+                        'danger': '#ef4444', // Red
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- Custom Styles for Fonts and Animation --><style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+       
+        /* Simple animation for the connecting state */
+        @keyframes pulse-ring {
+            0% { transform: scale(0.3); opacity: 0.8; }
+            100% { transform: scale(1.5); opacity: 0; }
+        }
+        .animate-pulse-ring {
+            animation: pulse-ring 1.5s cubic-bezier(0.66, 0, 0, 1) infinite;
+        }
+    </style>
+</head>
+<body class="bg-app-bg font-sans min-h-screen flex items-center justify-center p-4 transition-colors duration-500" id="body-container">
+
+
+    <!-- Main Content Container --><div class="relative w-full max-w-4xl h-[80vh] rounded-3xl shadow-2xl transition-all duration-300">
+
+        <!-- 1. CHAT VIEW (Initial/Default View) --><div id="chat-view" class="h-full bg-card-bg p-6 md:p-10 flex flex-col rounded-3xl transition-opacity duration-300">         
+            <!-- Blurred Gradient Background --><div class="absolute inset-0 overflow-hidden rounded-3xl pointer-events-none z-0">
+                <div class="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-green-300 opacity-40 rounded-full mix-blend-multiply filter blur-3xl"></div>
+                <div class="absolute bottom-1/4 right-1/2 translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-blue-300 opacity-40 rounded-full mix-blend-multiply filter blur-3xl"></div>
+                <div class="absolute top-1/2 left-1/4 -translate-x-1/2 -translate-y-1/2 w-72 h-72 bg-purple-300 opacity-40 rounded-full mix-blend-multiply filter blur-3xl"></div>
+            </div>
+           
+            <!-- Header (fixed at top of container) -->
+            <header class="text-center mb-4">
+                <h1 class="text-3xl font-light text-gray-800 tracking-wider">Ask Ragnar Anything</h1>
+            </header>
+            
+            <!-- Scrollable content -->
+            <div id="scrollable-container" class="flex-1 flex flex-col overflow-y-auto mb-4">
+                <div id="chat-messages" class="flex flex-col gap-2 p-2">
+                    <!-- messages -->
+                </div>
+            </div>
+
+            <!-- Suggestions buttons -->
+            <div id="suggestion-buttons" class="mb-4">
+                <p class="text-sm text-gray-500 mb-3">How can I help you?</p>
+                <div class="flex flex-wrap gap-2 md:gap-3">
+                    <button class="suggestion-btn" data-query="What can I ask you to do?">What can I ask you to do?</button>
+                    <button class="suggestion-btn" data-query="Which one of my projects is performing the best?">Why is the vending machine not working?</button>
+                    <button class="suggestion-btn" data-query="What projects should I be concerned about right now?">Who do I contact if the machine is broken?</button>
+                </div>
+            </div>
+
+            <!-- Input bar (fixed at bottom of chat-view) -->
+            <div class="flex items-center gap-2 mt-auto">
+                <div class="relative flex items-center flex-grow bg-white border border-gray-200 rounded-xl shadow-lg transition duration-200 hover:border-primary/50">
+                    <input type="text" id="chat-input" placeholder="Ask me anything about your projects"
+                        class="flex-grow p-4 text-gray-700 bg-transparent focus:outline-none placeholder:text-gray-400"
+                        onkeypress="if(event.key === 'Enter') sendMessage()">
+                    <button id="send-btn" class="p-4 text-gray-400 hover:text-primary transition-colors duration-200" onclick="sendMessage()">
+                        <!-- Paper Airplane Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="m22 2-7 19-3-8-8-3 19-7z"/>
+                        </svg>
+                    </button>
+                </div>
+                <button id="call-btn" class="p-4 bg-white border border-gray-200 rounded-xl shadow-lg text-gray-400 hover:text-primary hover:border-primary/50 transition-colors duration-200" onclick="makeCall()">
+                    <!-- Phone Icon -->
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+                    </svg>
+                </button>
+            </div>
+
+        </div>
+
+
+        <!-- 2. CALL VIEW (Hidden Initially) --><div id="call-view" class="h-full bg-gray-900 flex flex-col items-center justify-center p-8 md:p-12 rounded-3xl shadow-2xl text-white space-y-8 transition-opacity duration-300 hidden">
+           
+            <h1 class="text-3xl font-light tracking-wider text-gray-300">Ragnar AI</h1>
+       
+            <!-- Profile Picture and Status --><div class="relative flex items-center justify-center w-32 h-32">
+                <!-- Pulsing Ring Effect --><div id="pulse-ring" class="absolute w-full h-full bg-primary/50 rounded-full"></div>
+                <!-- Avatar/Icon --><div id="call-avatar" class="relative w-28 h-28 bg-primary rounded-full flex items-center justify-center shadow-lg border-4 border-gray-800">
+                    <!-- AI Icon (SVG) --><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zap-big text-white">
+                        <path d="M10 2H3L8 12H13L10 22L21 10H14L17 2H10Z"/>
+                    </svg>
+                </div>
+            </div>
+
+
+            <h2 id="status-text" class="text-xl font-semibold text-white mt-4">Connecting...</h2>
+            <p class="text-sm text-gray-400">Audio call initiated. Please wait for the connection.</p>
+
+
+            <!-- Placeholder Time Display --><div class="text-xl font-mono text-primary pt-2">
+                <span id="call-timer">00:00</span>
+            </div>
+
+
+            <!-- Action Buttons --><div class="flex gap-10 mt-8">
+               
+                <!-- Mute Button --><button class="p-4 bg-gray-700 rounded-full hover:bg-gray-600 transition-colors duration-200 shadow-xl" onclick="toggleMute()">
+                    <!-- Mic Icon (SVG) --><svg id="mic-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mic text-white">
+                        <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/>
+                        <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+                        <line x1="12" x2="12" y1="19" y2="22"/>
+                    </svg>
+                </button>
+
+
+                <!-- End Call Button --><button class="p-5 bg-danger rounded-full hover:bg-danger/80 transition-colors duration-200 shadow-xl" onclick="endCall()">
+                    <!-- Phone Off Icon (SVG) --><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-phone-off text-white">
+                        <path d="M10.68 13.34a12.87 12.87 0 0 0 4.3 4.3L17 19l2-2 1.34 1.34-2.6 2.6a2 2 0 0 1-2.18.21 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.15 4.1a2 2 0 0 1 2-2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81m5.92-.72a12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 7.05v3m-2 6L2 6"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+
+    </div>
+<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
