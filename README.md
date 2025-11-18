@@ -71,9 +71,16 @@ Environment: macOS / Linux, Python 3.13+
 
 ## Demo
 
+Voice Assistant
+<img width="1327" height="786" alt="Screenshot 2025-11-18 at 8 57 41 AM" src="https://github.com/user-attachments/assets/dd42ea6c-af31-40bc-a83c-14e2cb2dae4a" />
+
+Chatbot
+
 <img width="2048" height="1473" alt="image" src="https://github.com/user-attachments/assets/83def0b1-5997-46bb-baf2-4e2a0824c29f" />
+
+Zendesk
 
 <img width="2048" height="586" alt="image" src="https://github.com/user-attachments/assets/9f5e155b-28ad-44c1-99ea-3696f7eb8209" />
 
-<img width="1327" height="786" alt="Screenshot 2025-11-18 at 8 57 41 AM" src="https://github.com/user-attachments/assets/dd42ea6c-af31-40bc-a83c-14e2cb2dae4a" />
+
 
