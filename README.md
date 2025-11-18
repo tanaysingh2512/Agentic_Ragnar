@@ -1,4 +1,4 @@
-#Impact Solution RAGNAR
+# Impact Solution RAGNAR
 
 Ragnar AI is an intelligent, voice-enabled support assistant designed to enhance customer service for a vending machine company or similar businesses. It combines live chat, voice interactions, and optional automation to provide 24/7 assistance, leveraging knowledge bases and AI-driven responses.
 *Table of Contents*
@@ -8,7 +8,7 @@ Usage
 Project Ideas
 Tech Stack
 
-##Features
+## Features
 1. After-Hours Voice Assistant
 Accepts incoming “calls” from users outside business hours.
 Leverages Ragnar’s knowledge base to answer common queries accurately.
@@ -26,7 +26,7 @@ Automatically creates and updates support tickets based on interactions.
 Drafts follow-up emails for ongoing cases.
 Reduces manual workload for support staff.
 
-##Installation**
+## Installation
 
 1. Clone
 ```
@@ -58,7 +58,7 @@ python chat_server.py
 # Voicecall server
 python voice.py
 ```
-##Tech Stack
+## Tech Stack
 Frontend: HTML, TailwindCSS, JavaScript, Socket.IO
 
 Backend: Python, Flask, Flask-SocketIO, ElevenLabs SDK
@@ -68,3 +68,12 @@ Audio: Web Audio API, MediaRecorder API, ElevenLabs TTS
 Optional: Zendesk API for ticket automation
 
 Environment: macOS / Linux, Python 3.13+
+
+## Demo
+
+<img width="2048" height="1473" alt="image" src="https://github.com/user-attachments/assets/83def0b1-5997-46bb-baf2-4e2a0824c29f" />
+
+<img width="2048" height="586" alt="image" src="https://github.com/user-attachments/assets/9f5e155b-28ad-44c1-99ea-3696f7eb8209" />
+
+<img width="1327" height="786" alt="Screenshot 2025-11-18 at 8 57 41 AM" src="https://github.com/user-attachments/assets/dd42ea6c-af31-40bc-a83c-14e2cb2dae4a" />
+
